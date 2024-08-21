@@ -3,7 +3,9 @@
 A real-time chat application built with a Spring Boot backend and a React.js frontend. This project demonstrates how to create a full-stack chat application with message persistence and real-time updates.
 
 ## UI Design
-![Diagram](https://github.com/namandiwan/ChatApp/blob/master/Images/Register.png)
+![Diagram1](https://github.com/namandiwan/ChatApp/blob/master/Images/Register.png)
+![Diagram2](https://github.com/namandiwan/ChatApp/blob/master/Images/Login.png)
+![Diagram3](https://github.com/namandiwan/ChatApp/blob/master/Images/Chat.png)
 
 ## Table of Contents
 
